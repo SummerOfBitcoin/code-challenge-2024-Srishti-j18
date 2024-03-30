@@ -1,0 +1,3 @@
+{"merkle_root": "coinbase", "timestamp": 1711803605, "difficulty_target": "0000ffff00000000000000000000000000000000000000000000000000000000", "nonce": 130259}
+{"txid": "coinbase", "inputs": [], "outputs": [{"address": "miner_address", "value": 50}]}
+coinbase
